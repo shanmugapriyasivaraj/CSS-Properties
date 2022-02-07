@@ -1,13 +1,18 @@
-* {
-  font-family: Roboto;
-}
 h1 {
   font-size: 35px;
+  font-family: Roboto;
 }
 p {
+  font-family: Roboto;
   font-style: italic;
-  font-size: 25px;
+  font-size: 20px;
 }
 span {
   font-weight: bold;
+}
+* {
+  background-color: lightcyan;
+}
+.font {
+  background-color: lightseagreen;
 }
