@@ -1,8 +1,13 @@
+* {
+  font-family: Roboto;
+}
 h1 {
-  color: red;
-  background-color: gainsboro;
+  font-size: 35px;
 }
 p {
-  color: #00f0ff;
-  background-color: #f000ff;
+  font-style: italic;
+  font-size: 25px;
+}
+span {
+  font-weight: bold;
 }
